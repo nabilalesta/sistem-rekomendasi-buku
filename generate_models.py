@@ -1,2 +1,1 @@
-Hapus file generate_models.py
-
+rm generate_models.py
